@@ -8,7 +8,6 @@
 | ---------------------- | --------------------------------------------------------- |
 | **Pentester Name**     | Ismail Victor Elias                                              |
 | **Program/Batch**      | B083-Networkwalks                                         |
-                                         |
 | **Modules**            | W2-PM1 (Multiple Kali Tools) and W2-PM5 (Zenmap Scanning) |
 | **Client/Target**      | Networkwalks (written permission) and own local LAN       |
 | **Permission Secured** | Yes                                                       |
